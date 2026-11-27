@@ -1,0 +1,7 @@
+ID,Data,Tipo (Dark/Bias),Camera,Gain,Offset,Temperatura (C),Esposizione (s),Binning,N. Frame,Binning Master?,File Master,Dimensione (px),Note
+1,2026-11-27,Bias,ASI2600MC Pro,100,50,-10,0.001,1x1,150,Si,bias_g100_o50_t-10.fit,6248x4176,Master bias di riferimento
+2,2026-11-27,Dark,ASI2600MC Pro,100,50,-10,60,1x1,40,Si,dark_60s_g100_o50_t-10.fit,6248x4176,Luminanza standard
+3,2026-11-27,Dark,ASI2600MC Pro,100,50,-10,120,1x1,40,Si,dark_120s_g100_o50_t-10.fit,6248x4176,
+4,2026-11-27,Dark,ASI2600MC Pro,100,50,-10,300,1x1,30,Si,dark_300s_g100_o50_t-10.fit,6248x4176,Narrowband / nebulose deboli
+5,,,Dark,ASI2600MC Pro,100,50,-10,600,1x1,,Si,,6248x4176,Da acquisire - esposizioni lunghe
+6,,,Bias,ASI2600MC Pro,100,50,-10,0.001,1x1,,Si,,6248x4176,

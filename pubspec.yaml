@@ -1,0 +1,14 @@
+name: deepsky_orchestrator
+description: Planner deep-sky per Askar FRA400 + ASI2600MC Pro
+publish_to: 'none'
+version: 2.0.0+2
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true

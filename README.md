@@ -2,21 +2,21 @@
 
 Planner deep-sky personalizzato per il setup:
 
-- **Telescopio:** Askar FRA400 (400mm f/5.6)
-- **Camera:** ZWO ASI2600MC Pro (APS-C, 23.5 x 15.7 mm, pixel 3.76 um)
-- **Riduttore:** 0.8x opzionale -> 320mm f/4.5
+- **Telescopio:** Askar FRA400 (400mm f/5.6, quadrupletta Petzval)
+- **Camera:** ZWO ASI2600MC Pro (APS-C, 23.5 × 15.7 mm, pixel 3.76 µm)
+- **Riduttore:** 0.8× opzionale → 320mm f/4.5
 - **Montatura:** ZWO AM3N + ASIAIR Plus
 - **Autoguida:** ZWO ASI120mm mini + SVBONY SV165
 
-## Funzionalita'
+## Funzionalità
 
-- Catalogo ~140 oggetti deep-sky (Messier + NGC/IC selezionati)
-- Punteggio fattibilita' 0-10 calcolato sul setup reale (30% match campo, 30% magnitudine, 20% risolvibilita', 20% tipo)
-- Doppia inquadratura: dimensione oggetto vs FOV con e senza riduttore (3.36x2.25 gradi vs 4.20x2.81 gradi)
+- Catalogo ~140 oggetti deep-sky (Messier + NGC/IC selezionati) con coordinate, magnitudine, dimensioni
+- Punteggio fattibilità 0-10 calcolato sul setup reale (30% match campo, 30% magnitudine, 20% risolvibilità, 20% tipo)
+- Doppia inquadratura: dimensione oggetto vs FOV con e senza riduttore 0.8x (3,36°×2,25° vs 4,20°×2,81°)
 - Assegnazione automatica filtro consigliato: nebulose/SNR/planetarie -> dual-band, ammassi -> UV/IR cut, galassie -> nessuno
 - Filtri catalogo: tipo, filtro usato, FOV (nativo/riduttore/mosaico), mese utile, slider punteggio minimo
 - Ordinamento: punteggio, sigla, dimensione, ascensione retta, declinazione
-- Layout responsive: master-detail su Samsung Z Fold 8 (schermo interno aperto), lista a tutto schermo in modalita' compatta
+- Layout responsive: master-detail su Samsung Z Fold 8 (schermo interno aperto), lista a tutto schermo in modalità compatta
 
 ## Struttura
 
